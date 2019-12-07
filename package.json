@@ -57,7 +57,7 @@
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
     "semantic-ui-react": "0.87.1",
-    "serialize-javascript": "1.4.0",
+    "serialize-javascript": "2.1.1",
     "serviceworker-webpack-plugin": "0",
     "sqip": "^0.3.3",
     "style-loader": "^0.23.1",
