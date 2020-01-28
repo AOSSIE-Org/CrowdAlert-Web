@@ -75,7 +75,7 @@ rsa==3.4.2
 scipy==1.1.0
 six==1.11.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==1.15.2
 termcolor==1.1.0
 Twisted==19.2.0
 txaio==18.8.1
